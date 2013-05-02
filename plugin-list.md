@@ -1,17 +1,54 @@
-SEO
-All In One SEO Pack
+Plugins Separados por tipo
 
-Formulários
-Contact Form 7
-Contact Form 7 reCAPTCHA extension
+<b>Captcha</b><br>
+WP-reCAPTCHA
 
-Comentários
+<b>Comentários</b><br>
 Disqus Comment System
 
-Exibição de Currículo
+<b>Custom Fields</b><br>
+Magic Fields
+
+<b>Exibição de Currículo</b><br>
 FB LinkedIn Resume
 
-Videoconferência
-BigBlueButton
+<b>Enquetes</b><br>
+WP-Polls
 
-Segurança
+<b>Eventos</b><br>
+Calendar
+
+<b>Formulários</b><br>
+Contact Form 7<br>
+Contact Form 7 reCAPTCHA extension (requer WP-reCAPTCHA) <br>
+Contact Form DB<br>
+WP-Mail-SMTP
+
+<b>Posts</b><br>
+Yet Another Related Posts Plugin
+
+<b>Segurança</b><br>
+Login LockDown<br>
+AntiVirus<br>
+Secure WordPress<br>
+WP-Security Scan
+
+<b>SEO</b><br>
+All In One SEO Pack<br>
+Google XML Sitemaps
+
+<b>SlideShow</b><br>
+Meteor Slides
+
+<b>Social Media</b><br>
+Sociable
+
+<b>Utilitários</b><br>
+Regenerate Thumbnails<br>
+WordPress Database Backup<br>
+
+<b>Videoconferência</b><br>
+BigBlueButton  (requer servidor separado Ubuntu 10, rodando o bigbluebutton)
+
+<b>Vídeos</b><br>
+Vixy YouTube Embed
