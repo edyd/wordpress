@@ -54,5 +54,5 @@ BigBlueButton  (requer servidor separado Ubuntu 10, rodando o bigbluebutton)
 <b>Vídeos</b><br>
 Vixy YouTube Embed
 
-<b>Shortcodes</b>
+<b>Shortcodes</b><br>
 Shortcodes Ultimate (coloca várias funcionalidades como abas, sliders na hora de postar)
