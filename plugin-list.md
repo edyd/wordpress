@@ -7,7 +7,7 @@ WP-reCAPTCHA
 Disqus Comment System
 
 <b>Custom Fields</b><br>
-Magic Fields
+Magic Fields 2
 
 <b>Exibição de Currículo</b><br>
 FB LinkedIn Resume
@@ -34,11 +34,12 @@ Secure WordPress<br>
 WP-Security Scan
 
 <b>SEO</b><br>
+WordPress SEO (by yoast)<br>
 All In One SEO Pack<br>
 Google XML Sitemaps
 
 <b>SlideShow</b><br>
-Meteor Slides
+Meteor Slides ou Magic Fields 2 + JS
 
 <b>Social Media</b><br>
 Sociable
