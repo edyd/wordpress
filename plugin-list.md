@@ -41,7 +41,7 @@ All In One SEO Pack<br>
 Google XML Sitemaps
 
 <b>SlideShow</b><br>
-Meteor Slides
+Meteor Slides<br>
 Magic Fields 2 + jQuery (bxslider)
 
 <b>Social Media</b><br>
@@ -55,7 +55,7 @@ WordPress Database Backup<br>
 BigBlueButton  (requer servidor separado Ubuntu 10, rodando o bigbluebutton)
 
 <b>Vídeos</b><br>
-Vixy YouTube Embed
+Vixy YouTube Embed<br>
 Jetpack
 
 <b>Shortcodes</b><br>
