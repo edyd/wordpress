@@ -22,16 +22,18 @@ Calendar
 Contact Form 7<br>
 Contact Form 7 reCAPTCHA extension (requer WP-reCAPTCHA) <br>
 Contact Form DB<br>
-WP-Mail-SMTP
+WP-Mail-SMTP<br>
+Jetpack
 
 <b>Posts</b><br>
-Yet Another Related Posts Plugin
+Yet Another Related Posts Plugin<br>
+Jetpack
 
 <b>Segurança</b><br>
 Login LockDown<br>
 AntiVirus<br>
-Secure WordPress<br>
-WP-Security Scan
+Wordfence Security<br>
+Acunetix WP Security
 
 <b>SEO</b><br>
 WordPress SEO (by yoast)<br>
@@ -39,7 +41,8 @@ All In One SEO Pack<br>
 Google XML Sitemaps
 
 <b>SlideShow</b><br>
-Meteor Slides ou Magic Fields 2 + JS
+Meteor Slides
+Magic Fields 2 + jQuery (bxslider)
 
 <b>Social Media</b><br>
 Sociable
@@ -53,6 +56,7 @@ BigBlueButton  (requer servidor separado Ubuntu 10, rodando o bigbluebutton)
 
 <b>Vídeos</b><br>
 Vixy YouTube Embed
+Jetpack
 
 <b>Shortcodes</b><br>
 Shortcodes Ultimate (coloca várias funcionalidades como abas, sliders na hora de postar)
